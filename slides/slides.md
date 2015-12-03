@@ -16,13 +16,19 @@ class: middle
 # About Nodeschool
 
 ## Learning
-  * Interactive Tutorials - *Workshoppers*
+  * Interactive Open Source Tutorials - *Workshoppers*
+   * `Learnyounode` has over 600 commits from almost 100 authors
   * Topics varying from JavaScript basics to WebGL and NodeBots
 
 ## Community
   * Regular meetups to learn together!
     * Food, The News, Node in the Wild, Workshoppers!
   * 146 chapters on 6 continents
+
+???
+Open source - better than any closed source training programs
+This program is accessible to everyone of every social status.
+
 ---
 
 # How Nodeschool works - local
@@ -30,11 +36,16 @@ class: middle
 - New Agenda markdown for each meetup
 - Attendance via Github issues
 - Announcement and RSVP via meetup.com (accept no substitutes!)
+- Share group knowledge and submit improvements as pull requests back to repos
 ---
 
 # How Nodeschool works - global
 .center[![:scale 35%](slides/yougetarepo.jpg)]
 - Repos for chapters, organizers, workshop developers, workshop discussion, special events
+- Accessible to everyone, incorporated into other training programs.
+
+???
+Better than a CS degree and available to everyone for free.
 
 ---
 
